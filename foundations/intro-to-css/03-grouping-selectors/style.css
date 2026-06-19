@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.me,
+.naur_me{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+
+}
+
+.me{
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+
+}
+
+.naur_me{
+    color: hsl(81,2%,6%);
+    background-color: hsl(62,100%,50%);
+
+}
